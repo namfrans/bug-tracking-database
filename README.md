@@ -4,8 +4,6 @@
 > - Provide a form that allows us to report and manage specific bugs, as a set of stored reports.
 > - Allows automatic sequencial bug numbering
 
-References: Managing the test process by Rex Black.
-
 ## Missing Attributes
 - Serverlity
 - Priority
@@ -23,3 +21,5 @@ References: Managing the test process by Rex Black.
 - Java
 - Java FX
 - PostgreSQL
+
+References: Managing the test process by Rex Black.
